@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/pink_rice.png");
+    color: rgb(81, 69, 146);
+    font-family: 'Prompt', sans-serif;
+}
+
+.color-header {
+    background-color: rgb(81, 69, 146);
+    font-family: 'Codystar', cursive;
+    font-weight: bold;
+}
+
+.footer {
+    position: static;
+    bottom: 0;
+}
